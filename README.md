@@ -33,7 +33,7 @@
 ---
 
 ## 🚀 Featured Projects
-  AETHERSTREAM
+
 🔗 (https://github.com/Hitch469/Munkh-Orgil)
 
 ---
