@@ -1,144 +1,147 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C8FF,100:4B6CB7&height=220&section=header&text=Munkh-Orgil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Student%20|%20Aspiring%20Junior%20Software%20Developer&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:05060A,30:001F3F,60:00C8FF,100:7FDBFF&text=SYSTEM%20ONLINE&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Munkh-Orgil%20%7C%20ICT%20Student%20%7C%20Junior%20Software%20Developer&descAlignY=65"/>
 </p>
 
-<h1 align="center">👋 Hello, I'm Munkh-Orgil</h1>
+<h1 align="center">⚡ Welcome to my Cyber Terminal ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&width=800&lines=ICT+Student;Aspiring+Junior+Software+Developer;Building+Modern+Web+Applications;Python+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00C8FF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+ONLINE;ICT+Student;Aspiring+Junior+Software+Developer;Python+%7C+JavaScript+%7C+HTML+%7C+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-# 💫 About Me
+# > whoami
 
 ```yaml
-Name: Munkh-Orgil Enkh-Otgon
+name: Munkh-Orgil Enkh-Otgon
 
-Location: Lappeenranta, Finland 🇫🇮
+status: ONLINE
 
-Education:
-  ICT Student
-  Saimaan ammattiopisto Sampo
+role: ICT Student
 
-Career Goal:
-  Junior Software Developer
+goal: Junior Software Developer
 
-Currently Learning:
-  - Python
-  - JavaScript
-  - HTML
-  - CSS
-  - Git
-  - GitHub
-  - SQL
+location: Lappeenranta, Finland
 
-Interests:
-  - Web Development
-  - UI/UX Design
-  - Automation
-  - Open Source
+system:
+  editor: VS Code
+  os: Windows
+  version_control: Git & GitHub
 ```
 
 ---
 
-# 🚀 Tech Stack
+# > about.exe
+
+```console
+$ loading profile...
+
+✔ ICT Student at Saimaan ammattiopisto Sampo
+
+✔ Passionate about Software Development
+
+✔ Building Front-End Projects
+
+✔ Learning Full-Stack Development
+
+✔ Looking for Junior Developer Internship
+
+status.................CONNECTED
+```
+
+---
+
+# > neural_stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,mysql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,mysql&perline=4"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Dashboard
+# > telemetry
 
 <p align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Hitch469&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Hitch469&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-> **Note:** If GitHub Stats (`github-readme-stats`) is still showing **"Error Fetching Resource"**, leave it out for now. It's an external service and sometimes has outages. Your streak card is already working, and you can add the stats back later.
+> GitHub Stats are temporarily disabled because the external API is returning **"Error Fetching Resource"**. You can add them later when the service is working again.
 
 ---
 
-# 🌸 Featured Projects
+# > current_projects
 
 ## 🌸 AETHERSTREAM
 
-Modern cyberpunk-inspired anime website built with **HTML**, **CSS**, and **JavaScript**.
+```text
+STATUS.............COMPLETE
 
-✨ Features
+TYPE...............Frontend Website
 
-- Responsive Design
-- Interactive Navigation
-- Anime UI
-- Smooth Animations
-- Modern Layout
+TECH...............HTML
+...................CSS
+...................JavaScript
 
-🔗 Repository
+THEME..............Cyberpunk Anime
 
-```
-https://github.com/Hitch469/AETHERSTREAM
+UI................Responsive
+
+MISSION............Create a modern anime-inspired web experience.
 ```
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Master JavaScript
-- ✅ Learn React
-- ✅ Learn Node.js
-- ✅ Build Full-Stack Projects
-- ✅ Contribute to Open Source
-- ✅ Land a Junior Software Developer Internship
-
----
-
-# 📚 Currently Learning
+# > learning.log
 
 ```text
-Python         ████████████░░░░ 75%
+[██████████████████░░] HTML/CSS          90%
 
-JavaScript     ██████████░░░░░░ 65%
+[█████████████░░░░░░] JavaScript         70%
 
-HTML/CSS       ██████████████░░ 90%
+[████████████░░░░░░░] Python             65%
 
-SQL            ███████░░░░░░░░░ 45%
+[████████░░░░░░░░░░░] SQL                45%
 
-React          ███░░░░░░░░░░░░░ 20%
+[████░░░░░░░░░░░░░░░] React              Learning
 ```
 
 ---
 
-# 🌐 Connect With Me
+# > objectives
 
-<p align="left">
+```text
+[✓] Improve JavaScript
 
-<a href="mailto:orgil469@gmail.com">
-<img src="https://img.shields.io/badge/Email-00C8FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[✓] Learn React
 
-<a href="https://github.com/Hitch469">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[✓] Learn Node.js
 
-</p>
+[✓] Build Full-Stack Applications
+
+[✓] Create Portfolio Projects
+
+[ ] Get Junior Software Developer Internship
+```
 
 ---
 
-# 🐍 Contribution Snake
+# > contact
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Hitch469/Hitch469/output/github-contribution-grid-snake-dark.svg"/>
+<a href="mailto:orgil469@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00C8FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hitch469">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
-
-> *(This will work after you set up a GitHub Action to generate the snake animation.)*
 
 ---
 
@@ -150,14 +153,24 @@ React          ███░░░░░░░░░░░░░ 20%
 
 ---
 
+```text
+═══════════════════════════════════════════════════════
+
+SYSTEM STATUS
+
+POWER................100%
+
+NETWORK...............CONNECTED
+
+COMPILER..............READY
+
+MISSION...............BUILD • LEARN • IMPROVE
+
+═══════════════════════════════════════════════════════
+```
+
 <h3 align="center">
 
-💙 *Code. Learn. Build. Repeat.*
+💙 Code. Learn. Build. Repeat.
 
 </h3>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
