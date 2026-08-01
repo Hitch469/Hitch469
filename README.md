@@ -1,134 +1,100 @@
 <div align="center">
 
-# 01001101 01110101 01101110 01101011 01101000 00101101 01001111 01110010 01100111 01101001 01101100
+# ⚡ Munkh-Orgil
 
-```text
-██████╗██╗   ██╗██████╗ ███████╗██████╗ 
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+### `Software Developer in Progress`
 
-### 「 SYSTEM ONLINE 」
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=ICT+Student+🇫🇮;Former+Civil+Engineer;Learning+Full+Stack+Development;Building+Projects+Every+Day" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Developer+in+Progress...;ICT+Student+🇫🇮;Former+Civil+Engineer;Always+Building+Something+New..." />
+![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=00E5FF)
 
 </div>
 
 ---
 
-# > whoami
-
-```bash
-$ whoami
-
-Name............. Munkh-Orgil
-Location......... Finland 🇫🇮
-Role............. ICT Student
-Experience....... Civil Engineer (6 Years)
-Mission.......... Become Full Stack Developer
-Status........... Learning Everyday
-```
-
----
-
-# > tech --list
+## 👨‍💻 About Me
 
 ```yaml
-Languages:
-  - JavaScript
-  - Python
-  - HTML
-  - CSS
-
-Frontend:
+Name: Munkh-Orgil
+Location: Finland 🇫🇮
+Education: ICT Student
+Background: Civil Engineer (6 Years)
+Goal: Junior Software Developer
+Currently Learning:
   - React
-  - Tailwind CSS
-
-Backend:
   - Node.js
-  - Express
-
-Database:
-  - MongoDB
-  - MySQL
-
-Tools:
-  - Git
-  - GitHub
-  - VS Code
-  - Linux
+  - TypeScript
+  - Docker
 ```
 
 ---
 
-# > current_processes
-
-```text
-███████████████████████░░░  Learning React
-
-███████████████████░░░░░░░  Node.js
-
-███████████████░░░░░░░░░░░  TypeScript
-
-████████████████████░░░░░░  Portfolio
-
-██████████░░░░░░░░░░░░░░░░  Open Source
-```
-
----
-
-# > active_projects
-
-```text
-[✓] Portfolio Website
-
-[✓] Weather Dashboard
-
-[✓] Task Management App
-
-[✓] AI Chatbot
-
-[ ] Next Secret Project...
-```
-
----
-
-# > github_stats
+## ⚙️ Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=transparent&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker" />
 
 </p>
 
 ---
 
-# > contribution_matrix
+## 🚀 Featured Projects
+
+🔹 Portfolio Website
+
+🔹 Task Manager
+
+🔹 AI Chat Application
+
+🔹 Weather Dashboard
+
+🔹 Python Automation
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# > achievements
+## 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&no-frame=true"/>
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# > connect
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build Full Stack Projects
+- 🌱 Learn Modern Web Technologies
+- 🤝 Contribute to Open Source
+- 💼 Get a Junior Software Developer Position
+
+---
+
+## 🌐 Connect
 
 <p align="center">
 
@@ -136,7 +102,7 @@ Tools:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -146,14 +112,6 @@ Tools:
 
 <div align="center">
 
-```text
-> SYSTEM STATUS
-
-██████████████████████████
-
-ONLINE
-
-"Stay curious. Keep building."
-```
+### ⚡ *"Learn • Build • Improve • Repeat"*
 
 </div>
