@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 ICT Programmer Student at **Saimaan ammattiopisto Sampo**
+- 🎓 ICT Student at **Saimaan ammattiopisto Sampo**
 - 📍 Lappeenranta, Finland
 - 💼 Looking for a **Junior Software Developer Internship**
 - 🌱 Currently learning **Python, JavaScript, HTML, CSS, Git & GitHub**
