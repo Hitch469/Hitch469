@@ -65,7 +65,7 @@
 ### 🌸 AETHERSTREAM
 Modern anime website built with HTML, CSS and JavaScript featuring responsive design and interactive UI.
 
-🔗 https://github.com/Hitch469/coughyyyee
+🔗 https://github.com/Hitch469/Munkh-Orgil
 
 ---
 
