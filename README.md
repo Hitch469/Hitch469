@@ -1,77 +1,166 @@
-<div align="center">
+<!-- Neon Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Munkh-Orgil;Aspiring+Software+Developer;ICT+Student+in+Finland;Building+the+Future+One+Line+at+a+Time" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E+SYSTEM+ONLINE_;WELCOME+TO+THE+GRID;PROFILE+INITIALIZED..." alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00D9FF?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/Location-Lappeenranta,%20Finland-007BFF?style=for-the-badge">
+</p>
 
-<br/>
+---
 
-<sub>welcome to the grid // profile initialized</sub>
+# > SYSTEM INITIALIZED
 
-</div>
-
-<br/>
-
+```yaml
+Name: Munkh-Orgil
+Status: ICT Student
+Previous Career: Civil Engineer (6 Years)
+Current Mission: Become a Full Stack Software Developer
+Location: Finland
+Focus:
+  - Web Development
+  - AI
+  - React
+  - Node.js
 ```
-$ whoami
-handle:   your_name
-role:     full-stack netrunner
-location: [redacted] // sector 7
-status:   jacked_in
+
+---
+
+# ⚡ ABOUT ME
+
+```text
+> Learning.
+> Building.
+> Improving.
+> Repeat.
 ```
 
-<br/>
+- 💻 ICT Student in Finland
+- 🏗️ Former Civil Engineer with 6 years of experience
+- 🌱 Currently learning React, Node.js, TypeScript & Docker
+- 🚀 Building projects every week
+- 🎯 Goal: Junior Software Developer
 
-### `neural stack`
+---
 
-<div align="center">
+# 💻 TECH STACK
 
-![JavaScript](https://img.shields.io/badge/javascript-0a0d12?style=flat-square&logo=javascript&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
-![TypeScript](https://img.shields.io/badge/typescript-0a0d12?style=flat-square&logo=typescript&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
-![React](https://img.shields.io/badge/react-0a0d12?style=flat-square&logo=react&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
-![Node.js](https://img.shields.io/badge/node.js-0a0d12?style=flat-square&logo=node.js&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
-![Python](https://img.shields.io/badge/python-0a0d12?style=flat-square&logo=python&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
-![Docker](https://img.shields.io/badge/docker-0a0d12?style=flat-square&logo=docker&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
+### Languages
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
 
-<br/>
+### Frameworks
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Databases
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### `telemetry`
+### Tools
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&bg_color=0a0d12&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&background=0a0d12&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&border=00f0ff" width="48%" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&bg_color=0a0d12&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff" width="60%" />
+# 🚀 CURRENT PROJECTS
 
-</div>
+- 🌐 Portfolio Website
+- ✅ Task Manager
+- 🤖 AI Chat App
+- 🌦 Weather Dashboard
+- 📚 Learning TypeScript
 
-<br/>
+---
 
-### `signal channels`
+# 📊 GITHUB STATS
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a0d12?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/twitter-0a0d12?style=for-the-badge&logo=x&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/portfolio-0a0d12?style=for-the-badge&logo=todoist&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)](https://yourportfolio.dev)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+</p>
 
-<div align="center">
+---
 
-`[ transmission end ]`
+# 🔥 STREAK
 
-<br/>
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,100:00f0ff&height=90&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
+
+---
+
+# 🐍 CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🌌 CURRENT FOCUS
+
+```bash
+✔ Learn React
+✔ Learn Node.js
+✔ Learn TypeScript
+✔ Build Full Stack Projects
+✔ Contribute to Open Source
+✔ Land Junior Developer Job
+```
+
+---
+
+# 📫 CONNECT
+
+<p>
+
+<a href="https://linkedin.com/in/YOURPROFILE">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Build. Learn. Improve. Repeat."*
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=blue">
+
+</p>
