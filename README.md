@@ -38,11 +38,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hitch469&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitch469&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Starry Sky Banner" />
 </p>
 
 ---
