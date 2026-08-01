@@ -33,8 +33,8 @@
 ---
 
 ## 🚀 Featured Projects
-
-🔗 https://github.com/YOURUSERNAME/portfolio
+  AETHERSTREAM
+🔗 (https://github.com/Hitch469/Munkh-Orgil)
 
 ---
 
@@ -83,19 +83,16 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOURPROFILE">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+📧 **Email**  
+Orgil469@gmail.com
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+📱 **Phone**  
++358 41 723 2307
+
+🐙 **GitHub**  
+https://github.com/Hitch469
 
 </p>
-
----
-
-<div align="center">
 
 ### 💠 *Learn • Build • Improve • Repeat*
 
