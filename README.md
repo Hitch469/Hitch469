@@ -1,166 +1,159 @@
-<!-- Neon Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Munkh-Orgil;Aspiring+Software+Developer;ICT+Student+in+Finland;Building+the+Future+One+Line+at+a+Time" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00D9FF?style=for-the-badge&logo=github&logoColor=black">
-  <img src="https://img.shields.io/badge/Location-Lappeenranta,%20Finland-007BFF?style=for-the-badge">
-</p>
-
----
-
-# > SYSTEM INITIALIZED
-
-```yaml
-Name: Munkh-Orgil
-Status: ICT Student
-Previous Career: Civil Engineer (6 Years)
-Current Mission: Become a Full Stack Software Developer
-Location: Finland
-Focus:
-  - Web Development
-  - AI
-  - React
-  - Node.js
-```
-
----
-
-# ⚡ ABOUT ME
+# 01001101 01110101 01101110 01101011 01101000 00101101 01001111 01110010 01100111 01101001 01101100
 
 ```text
-> Learning.
-> Building.
-> Improving.
-> Repeat.
+██████╗██╗   ██╗██████╗ ███████╗██████╗ 
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-- 💻 ICT Student in Finland
-- 🏗️ Former Civil Engineer with 6 years of experience
-- 🌱 Currently learning React, Node.js, TypeScript & Docker
-- 🚀 Building projects every week
-- 🎯 Goal: Junior Software Developer
+### 「 SYSTEM ONLINE 」
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Developer+in+Progress...;ICT+Student+🇫🇮;Former+Civil+Engineer;Always+Building+Something+New..." />
+
+</div>
 
 ---
 
-# 💻 TECH STACK
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-</p>
-
----
-
-# 🚀 CURRENT PROJECTS
-
-- 🌐 Portfolio Website
-- ✅ Task Manager
-- 🤖 AI Chat App
-- 🌦 Weather Dashboard
-- 📚 Learning TypeScript
-
----
-
-# 📊 GITHUB STATS
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 STREAK
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 CONTRIBUTION GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🌌 CURRENT FOCUS
+# > whoami
 
 ```bash
-✔ Learn React
-✔ Learn Node.js
-✔ Learn TypeScript
-✔ Build Full Stack Projects
-✔ Contribute to Open Source
-✔ Land Junior Developer Job
+$ whoami
+
+Name............. Munkh-Orgil
+Location......... Finland 🇫🇮
+Role............. ICT Student
+Experience....... Civil Engineer (6 Years)
+Mission.......... Become Full Stack Developer
+Status........... Learning Everyday
 ```
 
 ---
 
-# 📫 CONNECT
+# > tech --list
 
-<p>
+```yaml
+Languages:
+  - JavaScript
+  - Python
+  - HTML
+  - CSS
+
+Frontend:
+  - React
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express
+
+Database:
+  - MongoDB
+  - MySQL
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+  - Linux
+```
+
+---
+
+# > current_processes
+
+```text
+███████████████████████░░░  Learning React
+
+███████████████████░░░░░░░  Node.js
+
+███████████████░░░░░░░░░░░  TypeScript
+
+████████████████████░░░░░░  Portfolio
+
+██████████░░░░░░░░░░░░░░░░  Open Source
+```
+
+---
+
+# > active_projects
+
+```text
+[✓] Portfolio Website
+
+[✓] Weather Dashboard
+
+[✓] Task Management App
+
+[✓] AI Chatbot
+
+[ ] Next Secret Project...
+```
+
+---
+
+# > github_stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=transparent&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# > contribution_matrix
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# > achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&no-frame=true"/>
+
+</p>
+
+---
+
+# > connect
+
+<p align="center">
 
 <a href="https://linkedin.com/in/YOURPROFILE">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-> *"Build. Learn. Improve. Repeat."*
+```text
+> SYSTEM STATUS
 
-</p>
+██████████████████████████
 
-<p align="center">
+ONLINE
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=blue">
+"Stay curious. Keep building."
+```
 
-</p>
+</div>
