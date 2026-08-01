@@ -38,15 +38,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hitch469&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitch469&layout=compact&theme=tokyonight&cache_seconds=1800" />
-
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hitch469&theme=tokyo-night)](https://github.com/Hitch469)
 
 ---
 
