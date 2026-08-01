@@ -1,39 +1,43 @@
 <div align="center">
 
-# ⚡ Munkh-Orgil
+# 🌸 Hi, I'm Munkh-Orgil
 
-### `Software Developer in Progress`
+### Software Developer • ICT Student • Finland 🇫🇮
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=ICT+Student+🇫🇮;Former+Civil+Engineer;Learning+Full+Stack+Development;Building+Projects+Every+Day" />
+*"Turning ideas into code, one project at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=00E5FF)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=F8BBD0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Always+Learning+Something+New;Building+Projects+Every+Day" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌷 About Me
 
-```yaml
-Name: Munkh-Orgil
-Location: Finland 🇫🇮
-Education: ICT Student
-Background: Civil Engineer (6 Years)
-Goal: Junior Software Developer
-Currently Learning:
-  - React
-  - Node.js
-  - TypeScript
-  - Docker
-```
+🌸 ICT Student based in Finland
+
+🏗️ Former Civil Engineer with 6 years of experience
+
+💻 Passionate about Web Development and Software Engineering
+
+🌱 Currently learning
+
+- React
+- Node.js
+- TypeScript
+- Docker
+
+🎯 Goal
+
+Become a Full Stack Software Developer and build software that people enjoy using.
 
 ---
 
-## ⚙️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,vscode,docker,linux"/>
 
 </p>
 
@@ -41,15 +45,13 @@ Currently Learning:
 
 ## 🚀 Featured Projects
 
-🔹 Portfolio Website
-
-🔹 Task Manager
-
-🔹 AI Chat Application
-
-🔹 Weather Dashboard
-
-🔹 Python Automation
+| Project | Description |
+|----------|-------------|
+| 🌐 Portfolio | Personal portfolio website |
+| ✅ Task Manager | Full Stack CRUD application |
+| 🌦 Weather App | Weather API project |
+| 🤖 AI Assistant | AI-powered chatbot |
+| 📊 Expense Tracker | Finance management application |
 
 ---
 
@@ -57,29 +59,19 @@ Currently Learning:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=rose_pine&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=rose-pine&hide_border=true"/>
 
 </p>
 
@@ -87,14 +79,14 @@ Currently Learning:
 
 ## 🎯 Current Goals
 
-- 🚀 Build Full Stack Projects
-- 🌱 Learn Modern Web Technologies
-- 🤝 Contribute to Open Source
-- 💼 Get a Junior Software Developer Position
+- 🌸 Build beautiful web applications
+- 📚 Learn modern software architecture
+- 🚀 Contribute to open source
+- 💼 Start my career as a Software Developer
 
 ---
 
-## 🌐 Connect
+## 📫 Contact
 
 <p align="center">
 
@@ -112,6 +104,8 @@ Currently Learning:
 
 <div align="center">
 
-### ⚡ *"Learn • Build • Improve • Repeat"*
+### 🌸 Thanks for visiting!
+
+*"Code with curiosity. Build with purpose."*
 
 </div>
