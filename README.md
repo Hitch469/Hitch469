@@ -1,176 +1,77 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:05060A,30:001F3F,60:00C8FF,100:7FDBFF&text=SYSTEM%20ONLINE&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Munkh-Orgil%20%7C%20ICT%20Student%20%7C%20Junior%20Software%20Developer&descAlignY=65"/>
-</p>
+<div align="center">
 
-<h1 align="center">⚡ Welcome to my Cyber Terminal ⚡</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E+SYSTEM+ONLINE_;WELCOME+TO+THE+GRID;PROFILE+INITIALIZED..." alt="Typing SVG" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00C8FF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+ONLINE;ICT+Student;Aspiring+Junior+Software+Developer;Python+%7C+JavaScript+%7C+HTML+%7C+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
-</p>
+<br/>
 
----
+<sub>welcome to the grid // profile initialized</sub>
 
-# > whoami
+</div>
 
-```yaml
-name: Munkh-Orgil Enkh-Otgon
+<br/>
 
-status: ONLINE
-
-role: ICT Student
-
-goal: Junior Software Developer
-
-location: Lappeenranta, Finland
-
-system:
-  editor: VS Code
-  os: Windows
-  version_control: Git & GitHub
+```
+$ whoami
+handle:   your_name
+role:     full-stack netrunner
+location: [redacted] // sector 7
+status:   jacked_in
 ```
 
----
+<br/>
 
-# > about.exe
+### `neural stack`
 
-```console
-$ loading profile...
+<div align="center">
 
-✔ ICT Student at Saimaan ammattiopisto Sampo
+![JavaScript](https://img.shields.io/badge/javascript-0a0d12?style=flat-square&logo=javascript&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
+![TypeScript](https://img.shields.io/badge/typescript-0a0d12?style=flat-square&logo=typescript&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
+![React](https://img.shields.io/badge/react-0a0d12?style=flat-square&logo=react&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
+![Node.js](https://img.shields.io/badge/node.js-0a0d12?style=flat-square&logo=node.js&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
+![Python](https://img.shields.io/badge/python-0a0d12?style=flat-square&logo=python&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
+![Docker](https://img.shields.io/badge/docker-0a0d12?style=flat-square&logo=docker&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)
 
-✔ Passionate about Software Development
+</div>
 
-✔ Building Front-End Projects
+<br/>
 
-✔ Learning Full-Stack Development
+<div align="center">
 
-✔ Looking for Junior Developer Internship
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-status.................CONNECTED
-```
+</div>
 
----
+### `telemetry`
 
-# > neural_stack
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&bg_color=0a0d12&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&background=0a0d12&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&border=00f0ff" width="48%" />
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,mysql&perline=4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&bg_color=0a0d12&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff" width="60%" />
 
-</p>
+</div>
 
----
+<br/>
 
-# > telemetry
+### `signal channels`
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hitch469&theme=tokyonight&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a0d12?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)](https://linkedin.com/in/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/twitter-0a0d12?style=for-the-badge&logo=x&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)](https://twitter.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/portfolio-0a0d12?style=for-the-badge&logo=todoist&logoColor=00f0ff&labelColor=0a0d12&color=0a0d12)](https://yourportfolio.dev)
 
-</p>
+</div>
 
-> GitHub Stats are temporarily disabled because the external API is returning **"Error Fetching Resource"**. You can add them later when the service is working again.
+<br/>
 
----
+<div align="center">
 
-# > current_projects
+`[ transmission end ]`
 
-## 🌸 AETHERSTREAM
+<br/>
 
-```text
-STATUS.............COMPLETE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,100:00f0ff&height=90&section=footer" width="100%"/>
 
-TYPE...............Frontend Website
-
-TECH...............HTML
-...................CSS
-...................JavaScript
-
-THEME..............Cyberpunk Anime
-
-UI................Responsive
-
-MISSION............Create a modern anime-inspired web experience.
-```
-
----
-
-# > learning.log
-
-```text
-[██████████████████░░] HTML/CSS          90%
-
-[█████████████░░░░░░] JavaScript         70%
-
-[████████████░░░░░░░] Python             65%
-
-[████████░░░░░░░░░░░] SQL                45%
-
-[████░░░░░░░░░░░░░░░] React              Learning
-```
-
----
-
-# > objectives
-
-```text
-[✓] Improve JavaScript
-
-[✓] Learn React
-
-[✓] Learn Node.js
-
-[✓] Build Full-Stack Applications
-
-[✓] Create Portfolio Projects
-
-[ ] Get Junior Software Developer Internship
-```
-
----
-
-# > contact
-
-<p align="center">
-
-<a href="mailto:orgil469@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00C8FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Hitch469">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Hitch469&style=for-the-badge&color=00C8FF"/>
-
-</p>
-
----
-
-```text
-═══════════════════════════════════════════════════════
-
-SYSTEM STATUS
-
-POWER................100%
-
-NETWORK...............CONNECTED
-
-COMPILER..............READY
-
-MISSION...............BUILD • LEARN • IMPROVE
-
-═══════════════════════════════════════════════════════
-```
-
-<h3 align="center">
-
-💙 Code. Learn. Build. Repeat.
-
-</h3>
+</div>
