@@ -34,7 +34,7 @@
 
 ## 🚀 Featured Projects
 
-| **🌐 [Portfolio](https://github.com/Hitch469/Munkh-Orgil)** |🌸 AETHERSTREAM website|
+| **🌐 [Animated web](https://github.com/Hitch469/Munkh-Orgil)** |AETHERSTREAM|
 
 ---
 
