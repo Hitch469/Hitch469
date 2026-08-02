@@ -6,8 +6,7 @@
 
 > *Building clean code and solving real-world problems.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=F4A6C1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Always+Learning;Building+Modern+Applications" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=F4A6C1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Building+Real+World+Projects;Passionate+About+Software+Development" />
 </div>
 
 ---
