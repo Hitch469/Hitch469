@@ -40,29 +40,12 @@
 
 ## 💻 Skills
 
-## 💻 Skills
-
-```yaml
-Frontend:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-
-Backend:
-  - Node.js
-  - Express
-  - Python
-
-Database:
-  - MongoDB
-  - MySQL
-
-Tools:
-  - Git
-  - GitHub
-  - Docker
-  - VS Code
+```bash
+Frontend  : HTML CSS JavaScript React Tailwind
+Backend   : Node.js Express Python
+Database  : MongoDB MySQL
+Tools     : Git GitHub Docker VS Code Linux
+Learning  : TypeScript Next.js
 ```
 
 ---
