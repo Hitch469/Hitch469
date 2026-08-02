@@ -34,8 +34,11 @@
 
 ## 🚀 Featured Projects
 
-| **🌐 [Animated web](https://github.com/Hitch469/Munkh-Orgil)** |AETHERSTREAM|
- **🌐 [Animated web]((https://github.com/Hitch469/Notes-app))** |Notes-app|
+| Project | Description |
+|---------|-------------|
+| 🌐 **[Animated web](https://github.com/Hitch469/Munkh-Orgil)** | AETHERSTREAM  |
+| 📝 **[Notes App](https://github.com/Hitch469/Notes-app)** | Simple note-taking application |
+
 
 ---
 
