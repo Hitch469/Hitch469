@@ -32,9 +32,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects https://github.com/Hitch469/Hitch469/blob/main/IMG.png
 
-🔗 (https://github.com/Hitch469/Munkh-Orgil)
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/Hitch469/Hitch469/main/assets/banner.pn](https://github.com/Hitch469/Hitch469/blob/main/IMG.png)" width="100%" alt="Banner">
+</p>
 
 ---
 
