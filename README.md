@@ -38,14 +38,36 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Skills
 
-<p align="center">
+### 🌐 Frontend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hitch469&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitch469&layout=compact&theme=tokyonight&hide_border=true"/>
+### ⚙️ Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+### 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs" />
 </p>
 
 ---
