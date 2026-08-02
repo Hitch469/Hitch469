@@ -38,14 +38,6 @@
 
 ---
 
-## 💻 Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,mongodb,mysql,git,github,docker,vscode,linux" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
