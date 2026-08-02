@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Starry Sky Banner" />
+  <img IMG.png />
 </p>
 
 ---
