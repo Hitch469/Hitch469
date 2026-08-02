@@ -35,6 +35,7 @@
 ## 🚀 Featured Projects
 
 | **🌐 [Animated web](https://github.com/Hitch469/Munkh-Orgil)** |AETHERSTREAM|
+ **🌐 [Animated web]((https://github.com/Hitch469/Notes-app))** |Notes-app|
 
 ---
 
@@ -42,7 +43,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hitch469&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -52,7 +53,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitch469E&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -66,8 +67,6 @@
 - 💼 Start My Software Development Career
 
 ---
-
-## 📫 Contact
 
 ## 📫 Contact
 
@@ -87,3 +86,7 @@ https://github.com/Hitch469
 ### 💠 *Learn • Build • Improve • Repeat*
 
 </div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Hitch469&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+</p>
