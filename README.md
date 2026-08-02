@@ -32,16 +32,26 @@
 
 ---
 
-## 🚀 Featured Projects https://github.com/Hitch469/Hitch469/blob/main/IMG.png
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github.com/Hitch469/Munkh-Orgil"
-</p>
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio | Personal portfolio website |
+| 📋 Task Manager | Full Stack CRUD app |
+| 🤖 AI Assistant | AI-powered application |
+| 🌦 Weather Dashboard | API-based weather app |
+| 📊 Expense Tracker | Finance management app |
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img IMG.png />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -77,13 +87,15 @@
 
 ## 📫 Contact
 
+## 📫 Contact
+
 <p align="center">
 
 📧 **Email**  
 Orgil469@gmail.com
 
 📱 **Phone**  
-+358 41 723 2307
++358 41 723 23
 
 🐙 **GitHub**  
 https://github.com/Hitch469
