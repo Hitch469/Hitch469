@@ -40,13 +40,9 @@
 
 ## 💻 Skills
 
-```bash
-Frontend  : HTML CSS JavaScript React Tailwind
-Backend   : Node.js Express Python
-Database  : MongoDB MySQL
-Tools     : Git GitHub Docker VS Code Linux
-Learning  : TypeScript Next.js
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,mongodb,mysql,git,github,docker,vscode,linux" />
+</p>
 
 ---
 
