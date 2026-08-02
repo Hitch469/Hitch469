@@ -34,13 +34,7 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio | Personal portfolio website |
-| 📋 Task Manager | Full Stack CRUD app |
-| 🤖 AI Assistant | AI-powered application |
-| 🌦 Weather Dashboard | API-based weather app |
-| 📊 Expense Tracker | Finance management app |
+| **🌐 [Portfolio](https://github.com/Hitch469/Munkh-Orgil)** | Personal portfolio website |
 
 ---
 
