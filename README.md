@@ -40,35 +40,13 @@
 
 ## 💻 Skills
 
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-</p>
-
-### 📚 Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,nextjs" />
-</p>
+```text
+Frontend  │ HTML • CSS • JavaScript • React • Tailwind
+Backend   │ Node.js • Express • Python
+Database  │ MongoDB • MySQL
+Tools     │ Git • GitHub • Docker • VS Code • Linux
+Learning  │ TypeScript • Next.js
+```
 
 ---
 
