@@ -52,11 +52,8 @@
 ---
 
 ## 📈 Activity Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitch469&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/Hitch469/Hitch469/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
