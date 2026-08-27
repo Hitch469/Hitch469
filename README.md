@@ -75,7 +75,7 @@
 Orgil469@gmail.com
 
 📱 **Phone**  
-+358 41 723 23
++358 41 723 2307
 
 🐙 **GitHub**  
 https://github.com/Hitch469
